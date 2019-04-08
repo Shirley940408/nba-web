@@ -1,4 +1,3 @@
-
 import React from 'react';
 import { PROFILE_PIC_URL_PREFIX, TEAM_PIC_URL_PREFIX } from '../constants';
 
